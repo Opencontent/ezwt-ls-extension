@@ -26,7 +26,7 @@
 
 class eZCreateClassListGroups
 {
-    function eZCreateClassListGroups()
+    function __construct()
     {
     }
 
